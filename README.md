@@ -1,4 +1,15 @@
-## Everything you would expect
+## Minimized MkDocks Template
+
+### Demo:
+[https://0x8badfood.github.io/mini-mkdocs-site/](https://0x8badfood.github.io/mini-mkdocs-site/)
+
+### SRC for Demo:
+[https://github.com/0x8BADFOOD/mini-mkdocs-site](https://github.com/0x8BADFOOD/mini-mkdocs-site)
+
+
+### Quick usage
+
+
 
 ### Inii Environment
 
@@ -74,5 +85,23 @@ Disable/Enable PDF in mkdocs.yml
   #- mkpdfs:
      #company: Super Comp
      #author: Super User
+
+
+    ssh -vT git@github.com
+    ssh -T git@github.com
+
+
+ToDo:
+
+    Add illustation image:
+
+    material/overrides/home.html
+        <img src="assets/images/illustration.png" alt="" width="1659" height="1200" draggable="false">
+    src/overrides/home.html
+        src="assets/images/illustration.png"material/overrides/home.html
+        <img src="assets/images/illustration.png" alt="" width="1659" height="1200" draggable="false">
+    src/overrides/home.html
+        src="assets/images/illustration.png"
+
 
 
