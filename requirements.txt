@@ -29,7 +29,7 @@ pymdown-extensions>=9.4
 
 # Requirements for plugins
 requests>=2.26
-mkdocs-material==9.0.2
+mkdocs-material==9.0.3
 mkdocs-macros-plugin
 mkdocs-redirects
 mkdocs-minify-plugin
